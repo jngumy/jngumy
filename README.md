@@ -1,5 +1,5 @@
-<h2> Hi, I'm Juan Gumy!  <!--<img src="https://media.tenor.com/images/2627955c0401a6881bfac86ebde35efa/tenor.gif" width="50"> --> </h2>
-
+<h2>Hi, I'm Juan Gumy!💻  <!--<img src="https://media.tenor.com/images/2627955c0401a6881bfac86ebde35efa/tenor.gif" width="50"> --> </h2>
+This is a showcase of my personal projects
 <!--
 ```javascript
 const juan = {
